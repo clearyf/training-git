@@ -3,7 +3,7 @@ README-lab1.txt
 
 NOTE: some mistakes in this document are done on purpose :)
 
-* Clone the repo
+* Clone the repository
   $ git clone https://github.com/clearyf/training-git.git
 
 * Create topic branch
